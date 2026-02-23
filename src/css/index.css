@@ -21,4 +21,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
+}
+
+tab-container {
+  width: 100%;
+  max-width: 600px;
 }
