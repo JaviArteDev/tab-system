@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "web-components": {
+      "source": "ManzDev/web-core",
+      "sourceType": "github",
+      "computedHash": "6f8a73cfdd37547663545883125e8804ff56db610149ac1c20e40cbdab43326c"
+    }
+  }
+}

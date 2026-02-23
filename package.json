@@ -1,0 +1,12 @@
+{
+  "name": "tab-system",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "servor src --fallback index.html --port 3000 --reload"
+  },
+  "devDependencies": {
+    "servor": "^4.0.0"
+  }
+}
